@@ -1,0 +1,9 @@
+{
+  "host": "raspberrypi.local",
+  "user": "pi",
+  "port": 22,
+  "remote_dir": "~/rpi-remote-dev",
+  "python": "python3",
+  "service": null,
+  "repo_dir": null
+}

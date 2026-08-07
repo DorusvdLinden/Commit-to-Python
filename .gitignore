@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# Per-project, machine-specific - never committed
+rpi_remote.config.json
+.rpi_remote_manifest.tmp
